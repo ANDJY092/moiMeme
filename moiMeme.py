@@ -21,3 +21,5 @@ def funB(n):
         tl.fd(n)
         tl.rt(90)
         funB(n+10)
+        tl.exitonclick()
+  
